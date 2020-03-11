@@ -646,10 +646,10 @@ item.x_special_defence.name=스페셜가드
 item.x_speed.name=스피드업
 item.x_accuracy.name=잘-맞추기
 item.dire_hit.name=키리티컬커터
-item.blue_orb.name=Blue Orb
-item.red_orb.name=Red Orb
-item.faded_red_orb.name=Faded Red Orb
-item.faded_blue_orb.name=Faded Blue Orb
+item.blue_orb.name=블루 오브
+item.red_orb.name=레드 오브
+item.faded_red_orb.name=주홍구슬
+item.faded_blue_orb.name=쪽빛구슬
 faded.red.orb.lore=This orb seems to have an attraction towards lava!
 faded.blue.orb.lore=This orb seems to have an attraction towards water!
 
