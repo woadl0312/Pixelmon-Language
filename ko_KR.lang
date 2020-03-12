@@ -656,16 +656,16 @@ faded.blue.orb.lore=This orb seems to have an attraction towards water!
 
 item.chisel.name=호감도
 item.ranch_upgrade.name=목장 업그레이드
-item.hourglass_gold.name=Ninja's 황금모래시계 
-item.hourglass_silver.name=Ninja's 은 모래시계
-item.pixelmon_sprite.name=Photo
-item.PixelmonSprite.name=Photo
+item.hourglass_gold.name=닌자의 금 모래시계 
+item.hourglass_silver.name=닌자의 은 모래시계
+item.pixelmon_sprite.name=사진
+item.PixelmonSprite.name=사진
 item.entity_pixelmon_painting_item.name=Pokémon Painting
 item.pixelmon_painting.name=Pokémon Painting
 item.camera.name=카메라
 item.film.name=필름
-item.sun_flute.name=태양 플루트
-item.moon_flute.name=달 플루트
+item.sun_flute.name=태양의피리
+item.moon_flute.name=달의피리
 gui.shopkeeper.item.sun_flute=A mysterious flute to call upon mysterious forces.
 gui.shopkeeper.item.moon_flute=A mysterious flute to call upon mysterious forces.
 
