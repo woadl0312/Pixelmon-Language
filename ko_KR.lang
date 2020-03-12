@@ -16,9 +16,9 @@ pixelmon.command.schematic.novalidwanddetected=구역설정 막대기를 소지�
 
 //Items
 /*
-*   아이템은 "이것은 아이템이다"라는 것을 나타냅니다,item.PC.name 같이 말이죠.
-*   중간 부분은 이것이 이름의 코드명이란것을 나타냅니다.
-*   마지막 부분은 이것이 아이템의 이름이라는것을 나타냅니다.
+*   item stands for "it is an item", just like in item.PC.name.
+*   The middle one stands for its name as defined by code.
+*   The final part is just saying it is the name of the item.
 */
 item.room_service.name=룸서비스
 item.fossil_machine_tank.name=화석 복원기 탱크
