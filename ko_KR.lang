@@ -31,7 +31,7 @@ item.cloner_cord.name=복제머신 연결기
 item.hidden_iron_door.name=숨겨진 철 문
 item.hidden_wooden_door.name=숨겨진 나무 문
 item.pokedex.name=포켓몬도감
-item.legend_finder.name=Legendary Finder
+item.legend_finder.name=전설 파인더
 item.wood_hammer.name=나무 해머
 item.stone_hammer.name=나무 해머
 item.iron_hammer.name=철 해머
@@ -666,8 +666,8 @@ item.camera.name=카메라
 item.film.name=필름
 item.sun_flute.name=태양의피리
 item.moon_flute.name=달의피리
-gui.shopkeeper.item.sun_flute=A mysterious flute to call upon mysterious forces.
-gui.shopkeeper.item.moon_flute=A mysterious flute to call upon mysterious forces.
+gui.shopkeeper.item.sun_flute=신비한 힘을 불러내는 신비한 피리.
+gui.shopkeeper.item.moon_flute=신비한 힘을 불러내는 신비한 피리.
 
 
 tile.poke_chest.name=포켓 체스트
