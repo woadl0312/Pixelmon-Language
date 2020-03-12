@@ -654,25 +654,25 @@ faded.red.orb.lore=This orb seems to have an attraction towards lava!
 faded.blue.orb.lore=This orb seems to have an attraction towards water!
 
 
-item.chisel.name=Chisel
-item.ranch_upgrade.name=Ranch Upgrade
-item.hourglass_gold.name=Ninja's Golden Hourglass
-item.hourglass_silver.name=Ninja's Silver Hourglass
+item.chisel.name=호감도
+item.ranch_upgrade.name=목장 업그레이드
+item.hourglass_gold.name=Ninja's 황금모래시계 
+item.hourglass_silver.name=Ninja's 은 모래시계
 item.pixelmon_sprite.name=Photo
 item.PixelmonSprite.name=Photo
 item.entity_pixelmon_painting_item.name=Pokémon Painting
 item.pixelmon_painting.name=Pokémon Painting
 item.camera.name=카메라
-item.film.name=Film
+item.film.name=필름
 item.sun_flute.name=태양 플루트
 item.moon_flute.name=달 플루트
 gui.shopkeeper.item.sun_flute=A mysterious flute to call upon mysterious forces.
 gui.shopkeeper.item.moon_flute=A mysterious flute to call upon mysterious forces.
 
 
-tile.poke_chest.name=Poké Chest
-tile.ultra_chest.name=Ultra Chest
-tile.master_chest.name=Master Chest
+tile.poke_chest.name=포켓 체스트
+tile.ultra_chest.name=하이퍼 체스트
+tile.master_chest.name=마스터 체스트
 
 tile.celestial_altar.name=Celestial Altar
 
