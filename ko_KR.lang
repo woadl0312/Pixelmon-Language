@@ -1,9 +1,9 @@
 /*
-*   Hello, and thanks for looking at the lang! If you are here to
-*   translate it there are little tidbits above each section to
-*   reference, but it's VERY straightforward. To translate the mod
-*   all you need to do is replace the text after the "=" to what you
-*   desire! It's that simple!
+*   Pixelmon Generations 2.9.4 Ver. Korean translate
+*   Translator:woadl0312,mokeaner
+*   픽셀몬 제너레이션즈 2.9.4 버전 한국어 번역
+*   번역:woadl0312,mokeaner
+*   
 */
 
 pixelmon.config.enableRichPresence.comment=디스코드 Rich Presence(게임 활동) 활성화
