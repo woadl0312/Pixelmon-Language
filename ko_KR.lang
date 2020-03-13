@@ -4758,7 +4758,7 @@ pixelmon.drops.fullinventory=인벤토리가 가득 찼다! %s는 땅에 떨어�
 pixelmon.drops.receivedrop=%s(을)를 얻었다!
 
 pixelmon.interaction.helditem=%s was given the %s.
-pixelmon.interaction.hprestore=%s's HP was restored.
+pixelmon.interaction.hprestore=%의 HP가 회복되었다!
 pixelmon.interaction.ppup=%s 의 PP가 증가하였다!
 pixelmon.interaction.ppfail=%s은(는) 이미 PP가 최대이다!
 pixelmon.interaction.ppupfail=%s은(는) 이미 PP가 꽉 찼다!
@@ -4772,7 +4772,7 @@ pixelmon.interaction.vitaminfail=%s의 %s은(는) 비타민으로 더 이상 증
 pixelmon.interaction.berry=%s의 %s가 떨어졌다!
 pixelmon.interaction.berryfriend=%s의 우정이 증가했다!
 pixelmon.interaction.berryfail=%s의 %s는 더 낮아질 수 없다.
-ㅔixelmon.interaction.noeffect=효과가 없는 것 같다...
+pixelmon.interaction.noeffect=효과가 없는 것 같다...
 pixelmon.interaction.abilitycapsule=%s의 특성이 %s로 바뀌었다!
 
 pixelmon.general.noeffect=효과가 없는 듯 하다...
@@ -4810,43 +4810,42 @@ pixelmon.entitytrainer.onceday=이 트레이너는 하루에 한번만 상대할
 pixelmon.entitytrainer.oncemcday=이 트레이너는 마인크래프트 시간으로 하루에 한번만 상대할 수 있습니다.
 pixelmon.entitytrainer.onceplayer=이 트레이너는 각 플레이어가 한번만 상대할 수 있습니다.
 pixelmon.entitytrainer.level=레벨:
-pixelmon.entitytrainer.winnings=포켓달러 %s를!
-pixelmon.entitytrainer.dropitemstitle=You defeated Gym Leader %s!
+pixelmon.entitytrainer.winnings=포켓달러 %s를 %s를 물리친 보상으로 얻었다!
+pixelmon.entitytrainer.dropitemstitle=체육관 관장 %s를 쓰러트렸다!
 
-trainer.edit.opwarning=You don't have permission to edit NPCs.
+trainer.edit.opwarning=NPC를 수정할 권한이 없습니다.
 
-pixelmon.statue.despawn=The Pokémon has been despawned.
-
-pixelutilities.blocks.emptygift=You found an empty %s. :(
-pixelmon.blocks.fillmefirst=You need to place a Pokémon inside first!
-pixelutilities.event.noevents=Events are disabled. :'(
-pixelmon.blocks.nothingtoadd=You need to send out a Pokémon first.
-pixelmon.block.error=An error was caused by %s.
-pixelmon.blocks.lastpoke=This is your last Pokémon!
-pixelmon.blocks.christmaspokegift=Christmas Poké Gift
-pixelmon.blocks.halloweenpokegift=Halloween Poké Gift
-pixelmon.blocks.custompokegift=custom event Poké Gift
-pixelmon.blocks.maxPlants=There are too many plants here! Try planting elsewhere.
+pixelmon.statue.despawn=포켓몬 소환이 해제되었습니다.
+pixelutilities.blocks.emptygift=%s 안은 비어있다.. :(
+pixelmon.blocks.fillmefirst=포켓몬을 먼저 넣어야 한다!
+pixelutilities.event.noevents=이벤트가 비활성화되어있다.. :'(
+pixelmon.blocks.nothingtoadd=포켓몬을 먼저 꺼내야 합니다.
+pixelmon.block.error=%s에 의해 오류가 발생했습니다..
+pixelmon.blocks.lastpoke=이 포켓몬은 보유한 마지막 포켓몬이다!
+pixelmon.blocks.christmaspokegift=크리스마스 포켓 기프트
+pixelmon.blocks.halloweenpokegift=할로윈 포켓 기프트
+pixelmon.blocks.custompokegift=사용자 지정 이벤트 포켓 기프트
+pixelmon.blocks.maxPlants=이곳엔 너무 많이 심어져있다! 다른곳에 심어야 할 것같다!
 
 //Poké Balls
-pixelmon.pokeballs.inbattle=That Pokémon is already in a battle!
-pixelmon.pokeballs.alreadyown=You can't catch Pokémon you already own!
-pixelmon.pokeballs.boss=You can't catch boss Pokémon!
-pixelmon.pokeballs.throw=%s threw the %s!
-pixelmon.pokeballs.capture=You captured %s!
-pixelmon.pokeballs.brokefree=%s broke free!
-pixelmon.pokeballs.pokeinbattle=You can't catch Pokémon who are battling in another battle!
-pixelmon.pokeballs.otherspokemon=You can't catch other people's Pokémon!
-pixelmon.pokeballs.statue=You can't catch a statue Pokémon!
+pixelmon.pokeballs.inbattle=그 포켓몬은 이미 배틀중이다!
+pixelmon.pokeballs.alreadyown=이미 잡은 포켓몬이어서 잡을 수 없다!
+pixelmon.pokeballs.boss=보스 포켓몬은 잡을 수 없다!
+pixelmon.pokeballs.throw=%s이(가) %s을(를) 던졌다!
+pixelmon.pokeballs.capture=신난다! %s를 잡았다!
+pixelmon.pokeballs.brokefree=안돼! %s는 볼에서 나와버렸다!
+pixelmon.pokeballs.pokeinbattle=다른 사람과 배틀중인 포켓몬은 잡을 수 없다!
+pixelmon.pokeballs.otherspokemon=다른 사람의 포켓몬은 잡으면 안된다!
+pixelmon.pokeballs.statue=포켓몬 동상은 잡을 수 없다!
 
 //Storage
-pixelmon.storage.compfull=You have no space left in your PC!
-pixelmon.storage.partyfull=Your party is full. %s was sent to your PC!
+pixelmon.storage.compfull=PC 보관함의 공간이 꽉 찼다!
+pixelmon.storage.partyfull=포켓몬을 넣을 공간이 없어 %s는 PC에 보내졌다!
 
 //Held Items
-pixelmon.helditems.healedstatus=%s's status was healed!
-pixelmon.helditems.consumeleppa=%s consumed its Leppa Berry and restored %s's PP!
-pixelmon.helditems.consumerestorehp=%s consumed its %s and restored health!
+pixelmon.helditems.healedstatus=%s의 상태가 회복되었다!
+pixelmon.helditems.consumeleppa=%s이(가) 과사열매를 사용하고 %s의 PP를 10 회복했다!
+pixelmon.helditems.consumerestorehp=%s가 %s and restored health!
 pixelmon.helditems.pinchberry=%s consumed its %s!
 pixelmon.helditems.custapberry=%s's Custap Berry let it move first!
 pixelmon.helditems.pumkinberry=%s consumed its Pumkin Berry and thawed out!
