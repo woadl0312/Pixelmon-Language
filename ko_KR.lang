@@ -4703,7 +4703,7 @@ pixelmon.general.errorlog=배틀 오류가 발생했습니다! 이 오류 로그
 pixelmon.npc.tradername=교환꾼
 pixelmon.npc.trader=내가 찾고있는 포켓몬이 없는것 같아! 나는 %s이(가) 필요해.
 
-pixelmon.npc.relearnername=Move Relearner
+pixelmon.npc.relearnername=기술 매니아
 pixelmon.npc.relearnersetitem=The relearner's cost is now %s (x%d).
 pixelmon.npc.relearnernoitem=The relearner is now free to use.
 pixelmon.npc.relearnerfull=You can't stack this item any further!
@@ -5283,8 +5283,8 @@ gui.tradereditor.changeTrainer=Change to Trainer
 gui.tradereditor.random=Randomize
 gui.trainereditor.changeTrader=Change to Trader
 
-gui.chooseNPC.trainer=Create NPC Trainer
-gui.chooseNPC.trader=Create Trader
+gui.chooseNPC.trainer=NPC 트레이너 만들기
+gui.chooseNPC.trader=교환꾼 만
 gui.chooseNPC.chatting=Create Chatting NPC
 gui.chooseNPC.relearner=Create Move Relearner
 gui.chooseNPC.tutor=Create Move Tutor
