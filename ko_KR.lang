@@ -7458,7 +7458,7 @@ pixelmon.config.maxMusicDelay=Maximum music delay
 
 pixelmon.config.spawnNormal=일반 포켓루트 소환
 pixelmon.config.spawnHidden=투명한 포켓루트 소환
-pixelmon.config.spawnGrotto=투명한 은혈 소환
+pixelmon.config.spawnGrotto=은혈 소환
 pixelmon.config.spawnRate=포켓루트 스폰 비율
 pixelmon.config.spawnMode=포켓루트 스폰 모드
 pixelmon.config.timedLootReuseHours=재사용 대기 시간
