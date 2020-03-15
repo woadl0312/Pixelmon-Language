@@ -2,11 +2,13 @@
 *   Pixelmon Generations 2.9.4 Ver. Korean translate
 *   Translator:woadl0312,mokeaner
 *   Translate Started date:2020.3.11
+*   https://github.com/woadl0312/Pixelmon-Language
+*   Korean translation was done on the GitHub link above.
 *   픽셀몬 제너레이션즈 2.9.4 버전 한국어 번역
 *   번역:woadl0312,mokeaner
 *   번역시작일:2020.3.11
 *   https://github.com/woadl0312/Pixelmon-Language
-*   위 링크로 들어가 한글번역을 도와주세요.
+*   한글번역은 위 GitHub 링크에서 진행되었습니다.
 */
 
 pixelmon.config.enableRichPresence.comment=디스코드 Rich Presence(게임 활동) 활성화
@@ -1455,38 +1457,36 @@ itemGroup.Decoration=장식
 *   The ones with "attack.attackName.name" are the attacks' actual names and
 *   the ones with "description" at the end are their descriptions.
 */
-attack.10,000,000 volt thunderbolt.description=The user, Pikachu wearing a cap, powers up a jolt of electricity using its Z-Power and unleashes it. Critical hits land more easily.
+attack.10,000,000 volt thunderbolt.description=모자를 쓴 피카츄가 Z파워로 파워 업한 전격을 쏜다. 급소에 맞기 쉽다.
 attack.10,000,000 volt thunderbolt.name=1000만볼트
 attack.absorb.name=흡수
 attack.absorb.description=양분을 흡수하여 공격한다. 입힌 데미지의 절반에 해당하는 HP를 회복할 수 있다.
-attack.accelerock.description=The user smashes into the target at high speed. This move always goes first.
-attack.accelerock.description=The user smashes into the target at high speed. This move always goes first.
-attack.accelerock.name=Accelerock
-attack.accelerock.name=Accelerock
+attack.accelerock.name=액셀록
+attack.accelerock.description=재빠른 스피드로 상대에게 부딪쳐서 공격한다. 반드시 선제공격할 수 있다.
 attack.acid armor.name=녹기
 attack.acid armor.description=세포의 변화로 액체가 되어 자신의 방어를 크게 올린다.
-attack.acid downpour.description=The user creates a poisonous swamp using its Z-Power and sinks the target into it at full force. The power varies, depending on the original move.
-attack.acid downpour.name= Acid Downpour
-attack.acid spray.description=The user spits fluid that works to melt the target. This harshly lowers the target's Sp. Def stat.
-attack.acid spray.name=Acid Spray
-attack.acid.description=The opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats.
-attack.acid.name=Acid
-attack.acrobatics.description=The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage.
-attack.acrobatics.name=Acrobatics
-attack.acupressure.description=The user applies pressure to stress points, sharply boosting one of its or its allies' stats.
-attack.acupressure.name=Acupressure
-attack.aerial ace.description=The user confounds the target with speed, then slashes. This attack never misses.
-attack.aerial ace.name=Aerial Ace
-attack.aeroblast.description=A vortex of air is shot at the target to inflict damage. Critical hits land more easily.
-attack.aeroblast.name=Aeroblast
-attack.after you.description=The user helps the target and makes it use its move right after the user.
-attack.after you.name=After You
+attack.acid downpour.name=애시드포이즌딜리트
+attack.acid downpour.description=Z파워로 만든 독 늪을 전력으로 상대에게 끼얹는다. 원래 기술에 따라 위력이 변한다.
+attack.acid spray.name=애시드봄
+attack.acid spray.description=상대방을 녹여버리는 액체를 퍼부어 공격한다. 상대방의 특수방어를 크게 내린다.
+attack.acid.name=용해액
+attack.acid.description=강한 산을 상대에게 끼얹어 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다.
+attack.acrobatics.name=애크러뱃
+attack.acrobatics.description=경쾌하게 상대방을 공격한다. 자신이 도구를 갖고 있지 않을 때 큰 대미지를 준다.
+attack.acupressure.name=경혈찌르기
+attack.acupressure.description=우리 쪽의 공격, 방어, 특수공격, 특수방어, 스피드, 명중률, 회피율 중 하나가 랜덤으로 선택되어 크게 오른다.
+attack.aerial ace.name=제비반환
+attack.aerial ace.description=재빠른 움직임으로 상대를 농락해 벤다. 공격은 반드시 명중한다.
+attack.aeroblast.name=에어로블라스트
+attack.aeroblast.description=공기의 소용돌이를 발사하여 공격한다. 급소에 맞을 확률이 높다.
+attack.after you.name=당신먼저
+attack.after you.description=상대방의 행동을 서포트해서 자신의 행동 뒤에 이어서 움직이게 한다.
 attack.agility.name=고속이동
 attack.agility.description=힘을 빼고 몸을 가볍게 해 고속으로 움직인다. 자신의 스피드를 크게 올린다.
-attack.air cutter.description=The user launches razor-like wind to slash the opposing Pokémon. Critical hits land more easily.
-attack.air cutter.name=Air Cutter
-attack.air slash.description=The user attacks with a blade of air that slices even the sky. This may also make the target flinch.
-attack.air slash.name=Air Slash
+attack.air cutter.name=에어커터
+attack.air cutter.description=날카로운 바람으로 상대를 베어 공격한다. 급소에 맞을 확률이 높다.
+attack.air slash.name=에어슬래시
+attack.air slash.description=하늘까지 베어 가르는 공기의 칼날로 공격한다. 상대를 풀죽게 만들 때가 있다.
 attack.all-out pummeling.description=The user rams an energy orb created by its Z-Power into the target with full force. The power varies, depending on the original move.
 attack.all-out pummeling.name=All-Out Pummelling
 attack.ally switch.description=The user teleports using a strange power and switches places with one of its allies.
