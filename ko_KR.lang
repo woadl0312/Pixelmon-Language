@@ -4715,7 +4715,7 @@ pixelmon.npc.cantpay=이 기술 학습 비용은 지불할 수 없어!
 
 pixelmon.projectiles.nibble=Not even a nibble...
 pixelmon.projectiles.gotaway=It got away!
-pixelmon.projectiles.fisheditem=You fished up %s %s!
+pixelmon.projectiles.fisheditem=%s %s을(를) 낚았다!
 
 pixelmon.stats.gainexp=당신의 %s가 %d 경험치를 획득했다!
 pixelmon.stats.learnedmove=%s가 %s 기술을 배웠다!
